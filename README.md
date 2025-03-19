@@ -32,3 +32,9 @@ STUFF duh
 [linkedin]: https://www.linkedin.com/in/tyler-pham-860392214/](https://www.linkedin.com/in/angel-campos-69b74426b/
 
 pandoc "filename" -o README.md --extract-media=images
+
+git add README.md or git add .
+git commit -m "I am adding files"
+git push
+
+
