@@ -21,7 +21,7 @@ Used Java, JavaFX, IntelliJ.
 
 <b>SQL Database Project</b>
 https://github.com/angeltamuc/Database_Final_Project
-Collabrated in a team of  to make Video game database that would use a python app to diplay the content.
+Collabrated in a team of 5 to make Video game database that would use a python app to diplay the content.
 Used MySQL and Python
 
 
