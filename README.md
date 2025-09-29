@@ -1,6 +1,6 @@
 # Portfolio
 HOWDY
-<h1>Hi, I'm Angel! <br/><a href="https://www.linkedin.com/in/angel-campos-69b74426b/">Aspiring Software Professional</a></h1>
+<h1>Hi, I'm Angel! <br/><a href="https://www.linkedin.com/in/angel-campos-69b74426b/">Aspiring Computing Software Data Professional</a></h1>
 
 <h2>👨‍💻 Computer Science Projects:</h2>
 
@@ -29,9 +29,6 @@ Used MySQL and Python
 Learning more about different ML models and how we can use them in cybersecruity.
 
 
-<h2> 🤳 Connect with me:</h2>
-
-[linkedin]: https://www.linkedin.com/in/angel-campos-69b74426b/
 
 
 
